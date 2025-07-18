@@ -1,5 +1,4 @@
 📱 Quiz App – MAD Project
-Description:
 
 The Quiz App – MAD is an interactive Android mobile application developed using Kotlin. 
 It allows users to test their knowledge across various topics through multiple-choice quizzes. 
